@@ -1,5 +1,6 @@
--   id: validate
-    name: validate
+-   id: validate-sam
+    name: validate-sam
     description: Validate SAM templates with sam local.
     entry: validate.sh
     language: script
+    files: template.yml
