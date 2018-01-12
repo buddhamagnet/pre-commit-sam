@@ -1,0 +1,5 @@
+-   id: validate
+    name: validate
+    description: Validate SAM templates with sam local.
+    entry: validate.sh
+    language: script
